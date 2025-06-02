@@ -1,0 +1,30 @@
+.container {
+    width: 330px;
+    height: 50px;
+    background-color: rgb(90, 255, 90);
+    align-content: center;
+    border-radius: 8px;
+}
+
+.container p {
+    font-weight: 600;
+    font-family:Helvetica;
+    color: rgb(67, 184, 67);
+    padding-left: 20px;
+}
+
+
+.container-error {
+    width: 330px;
+    height: 50px;
+    background-color: rgb(255, 129, 90);
+    align-content: center;
+    border-radius: 8px;
+}
+
+.container-error p {
+    font-weight: 600;
+    font-family:Helvetica;
+    color: rgb(184, 102, 67);
+    padding-left: 20px;
+}

@@ -1,0 +1,68 @@
+.main-container{
+    min-height: 6vh;
+    background-color: rgba(4, 83, 242, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+h1 {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-size: 2rem;
+}
+
+.title-container{
+    display: flex;
+    align-content: center;
+    padding-right: 3vw;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2vw;
+}
+
+
+.button-container{
+    display: flex;
+    align-content: center;
+    padding-right: 3vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container button {
+
+  font-size: 1rem;
+  background-color: transparent;
+  min-height: 4vh;
+  color: white;
+  border: 1.5px solid white;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: Helvetica;
+  font-weight: 900;
+}
+
+
+/* Color Theme Swatches in Hex */
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-1-hex { color: #0554F2; }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-2-hex { color: #052608; }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-3-hex { color: #76A646; }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-4-hex { color: #BDF26D; }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-5-hex { color: #EFF2EB; }
+
+/* Color Theme Swatches in RGBA */
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-1-rgba { color: rgba(4, 83, 242, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-2-rgba { color: rgba(5, 38, 7, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-3-rgba { color: rgba(117, 165, 69, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-4-rgba { color: rgba(188, 242, 109, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-5-rgba { color: rgba(239, 242, 234, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-1-hsla { color: hsla(219, 96, 48, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-2-hsla { color: hsla(123, 75, 8, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-3-hsla { color: hsla(90, 40, 46, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-4-hsla { color: hsla(84, 83, 68, 1); }
+.Pock-Wallet-Mobile-App-—-UX/UI-Design-5-hsla { color: hsla(84, 22, 93, 1); }
